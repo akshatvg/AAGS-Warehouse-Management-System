@@ -1,0 +1,40 @@
+//Java Hashtable For Inventory Creation
+
+import java.util.*;
+
+public class Item
+{
+    
+    int x;
+    
+    public static enum ItemType { Food, Clothes, Electronics, Laptops; }
+
+    public ItemType type;
+    public int weight;
+
+    public Item() {
+
+    }
+
+    public Item(ItemType type, int weight) {
+        this.type = type;
+        this.weight = weight;
+    }
+    
+    //Checking if key element is present in the hash table using containsKey()
+    System.out.println("Enter key to search in hash table: ");
+    Scanner S=new Scanner(System.in);
+    x=S.nextInt()
+        hash_table.containsKey(x);
+    
+}
+
+HashMap<Integer, Item> inventory = new HashMap<Integer, Item>();
+
+Item i1 = new Item(ItemType.Food, 10);
+Item i2 = new Item(ItemType.Clothes, 20);
+
+inventory.put(0, i1);
+inventory.put(1, i2);
+
+Item[] inventory = new Item[10000];
