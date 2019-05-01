@@ -1,14 +1,15 @@
 # Team-26
 
-VinHack - A Hackathon by VinnovateIT
+## VinHack - A Hackathon by VinnovateIT
+
+### Second runner up winner in VinHack by VinnovateIT
+
+#### Project: 
+
+##### AAGS- Intelligent Warehouse Management System
 
 
-Project: 
-
-AAGS- Intelligent Warehouse Management System
-
-
-Problem Statement: 
+##### Problem Statement: 
 
 Industries like e-commerce, retail, food and pharmaceuticals face a major issue of warehouse space optimization for stacking their products. These industries manufacture and store products of different shapes and sizes and have to spend extensive resources to allocate warehouse space and keep a track of the product whereabouts. There is a need for an intelligent warehouse management system that will:
 
@@ -17,12 +18,12 @@ Industries like e-commerce, retail, food and pharmaceuticals face a major issue 
                            2)Simplify Product Tracking & Retrieving Process To Reduce/ Eliminate Errors.
 
 
-Approach Needed:
+#### Approach Needed:
 
 We intend to come up with an all rounded solution to optimize indoor tracking and optimize the warehouse space. Our solution consists of a mixture of IT and IoT to deliver the expected results and live up to our needs. We intend to use the mentioned methods to solve all the previously mentioned problems.
 
 
-Our Solutions:
+#### Our Solutions:
 
 A few features that we are incorporating into our project are: 
 
@@ -41,7 +42,7 @@ A few features that we are incorporating into our project are:
                            7)Stock prediction (what to buy next).
                            
 
-Team Members:
+#### Team Members:
 
 1)Akshat Gupta- 18BIT0330.
 
