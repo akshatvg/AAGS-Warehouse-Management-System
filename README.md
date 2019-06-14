@@ -1,10 +1,6 @@
-# Team-26
+# AAGS- Intelligent Warehouse Management System
 
 ## Second runner up winner in VinHack by VinnovateIT
-
-### VinHack - A Hackathon by VinnovateIT
-
-#### AAGS- Intelligent Warehouse Management System
 
 
 ##### Problem Statement: 
