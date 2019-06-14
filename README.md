@@ -1,12 +1,10 @@
 # Team-26
 
-## VinHack - A Hackathon by VinnovateIT
+## Second runner up winner in VinHack by VinnovateIT
 
-### Second runner up winner in VinHack by VinnovateIT
+### VinHack - A Hackathon by VinnovateIT
 
-#### Project: 
-
-##### AAGS- Intelligent Warehouse Management System
+#### AAGS- Intelligent Warehouse Management System
 
 
 ##### Problem Statement: 
@@ -40,17 +38,6 @@ A few features that we are incorporating into our project are:
                            6)Stock storage optimization.
                            
                            7)Stock prediction (what to buy next).
-                           
-
-#### Team Members:
-
-1)Akshat Gupta- 18BIT0330.
-
-2)Sai Sandeep- 18BIS0039.
-
-3)Jatin Rathee- 18BCA0052.
-
-4)Gauransh Arora- 18BIT0393.
 
 
 #### Check out our demo video at:
