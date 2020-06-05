@@ -26,7 +26,7 @@ Industries like e-commerce, retail, food and pharmaceuticals face a major issue 
 
 We intend to come up with an all rounded solution to optimize indoor tracking and optimize the warehouse space. Our solution consists of a mixture of IT and IoT to deliver the expected results and live up to our needs. We intend to use the mentioned methods to solve all the previously mentioned problems. 
 
-#### Our Solutions:
+## Our Solutions:
 
 A few features that we are incorporating into our project are: 
 1) Display the latest sales. 
